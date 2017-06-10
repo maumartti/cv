@@ -3,7 +3,6 @@
 Desarrollador web y estudiante de tecnologías de la información, Front-end, y Back-end en diferentes lenguajes. 
 Entusiasta, autodidacta, practico, analítico, conceptual.
 
-
 ## Datos personales:
 #### Nombres : Mauricio Alejandro
 #### Apellidos: Martínez Deleon
