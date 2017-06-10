@@ -23,16 +23,16 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 
 ## Conocimientos:
 ```markdown
-
-HTML5
-Css3
-JavaScript 
+- HTML5
+- Css3
+- Bootstrap
+- JavaScript 
 	- JQuery
-PHP
-Mysql
-Java
-Git – Github
-Conocimientos en SEO
+- PHP
+- Mysql
+- Java
+- Git – Github
+- Conocimientos en SEO
 ```
 ```markdown
 
