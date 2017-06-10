@@ -34,29 +34,9 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 - Git – Github
 - Conocimientos en SEO
 ```
-```markdown
+## Experiencias laborales:
 
-# Header 1
-## Header 2
-#### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maumartti/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Vinitex 2011 (tienda).
+2. Devoto 2012 (supermercado).
+3. Accesa 2012-2014 (call center – Antel-data).
+4. Polisemic 2016-2016 (desarrollo web)
