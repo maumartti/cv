@@ -25,8 +25,9 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 - Inglés 2do año aprobado – Bridge Institute (2012-2013)
 
 - Estudios como autodidacta de lenguajes como PHP, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP, SEO, GIT-GITHUB
-```markdown
 
+
+```markdown
 
 # Header 1
 ## Header 2
