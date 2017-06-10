@@ -5,20 +5,32 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 
 
 ## Datos personales:
-**Nombres : Mauricio Alejandro**
-**Apellidos: Martínez Deleon**
-**Edad: 28 años**
-**Lugar de residencia: Las Piedras, canelones**
-**Cel: 091403253**
-**Email: maumartti@gmail.com**
-**GitHub: [https://github.com/maumartti](https://github.com/maumartti)**
-**Estado civil: Soltero**
+#### Nombres : Mauricio Alejandro
+#### Apellidos: Martínez Deleon
+#### Edad: 28 años
+#### Lugar de residencia: Las Piedras, canelones
+#### Cel: 091403253
+#### Email: maumartti@gmail.com
+#### GitHub: [https://github.com/maumartti](https://github.com/maumartti)
+#### Estado civil: Soltero
+
+## Estudios Realizados:
+
+- Secundaria: Completa.
+
+- Taller de teletrabajo y medios de pagos por Internet - NETGATE (2010)
+
+- Primer año analista de sistemas – Circulo Informático (2011) titulo: Programador lenguajes aprendidos: Java, mysql, visual basic 2010.
+
+- Inglés 2do año aprobado – Bridge Institute (2012-2013)
+
+- Estudios como autodidacta de lenguajes como PHP, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP, SEO, GIT-GITHUB
 ```markdown
 
 
 # Header 1
 ## Header 2
-### Header 3
+#### Header 3
 
 - Bulleted
 - List
