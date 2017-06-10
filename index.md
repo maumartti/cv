@@ -1,12 +1,18 @@
 ## Mauricio Martínez
 
-You can use the [editor on GitHub](https://github.com/maumartti/cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Desarrollador web y estudiante de tecnologías de la información, Front-end, y Back-end en diferentes lenguajes. 
+Entusiasta, autodidacta, practico, analítico, conceptual.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Datos personales:
+Nombres: Mauricio Alejandro
+Apellidos: Martínez Deleon
+Edad: 28 años
+Lugar de residencia: Las Piedras, canelones
+Cel: 091403253
+Email: maumartti@gmail.com
+GitHub: (https://github.com/maumartti)
+Estado civil: Soltero
 
 ```markdown
 Syntax highlighted code block
