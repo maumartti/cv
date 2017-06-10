@@ -16,15 +16,15 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 
 ## Estudios Realizados:
 
-- Secundaria: Completa.
+1. Secundaria: Completa.
 
-- Taller de teletrabajo y medios de pagos por Internet - NETGATE (2010)
+2. Taller de teletrabajo y medios de pagos por Internet - NETGATE (2010)
 
-- Primer año analista de sistemas – Circulo Informático (2011) titulo: Programador lenguajes aprendidos: Java, mysql, visual basic 2010.
+3. Primer año analista de sistemas – Circulo Informático (2011) titulo: Programador lenguajes aprendidos: Java, mysql, visual basic 2010.
 
-- Inglés 2do año aprobado – Bridge Institute (2012-2013)
+4. Inglés 2do año aprobado – Bridge Institute (2012-2013)
 
-- Estudios como autodidacta de lenguajes como PHP, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP, SEO, GIT-GITHUB
+5. Estudios como autodidacta de lenguajes como PHP, CSS3, JAVASCRIPT, JQUERY, BOOTSTRAP, SEO, GIT-GITHUB
 
 
 ```markdown
