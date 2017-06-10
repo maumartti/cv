@@ -5,17 +5,16 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 
 
 ### Datos personales:
-Nombres: Mauricio Alejandro
-Apellidos: Martínez Deleon
-Edad: 28 años
-Lugar de residencia: Las Piedras, canelones
-Cel: 091403253
-Email: maumartti@gmail.com
-GitHub: (https://github.com/maumartti)
-Estado civil: Soltero
-
+# Nombres : ### Mauricio Alejandro
+# Apellidos: ### Martínez Deleon
+# Edad: ### 28 años
+# Lugar de residencia: ### Las Piedras, canelones
+# Cel: ### 091403253
+# Email: ### maumartti@gmail.com
+# GitHub: ### (https://github.com/maumartti)
+# Estado civil: ### Soltero
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
