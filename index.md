@@ -1,5 +1,5 @@
 # Mauricio Martínez
-![](https://github.com/maumartti/cv/yo.jpg)
+![](https://github.com/maumartti/cv/blob/master/yo.jpg)
 Desarrollador web y estudiante de tecnologías de la información, Front-end, y Back-end en diferentes lenguajes. 
 Entusiasta, autodidacta, practico, analítico, conceptual.
 
