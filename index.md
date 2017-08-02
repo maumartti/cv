@@ -34,6 +34,8 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 - Java
 - Git – Github
 - Conocimientos en SEO
+- POO
+- MVC
 ```
 ## Experiencias laborales:
 
