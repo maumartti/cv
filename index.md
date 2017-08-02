@@ -36,6 +36,7 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 - Conocimientos en SEO
 - POO
 - MVC
+- Manejo de Linux
 ```
 ## Experiencias laborales:
 
