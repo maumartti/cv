@@ -42,8 +42,8 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 
 1. Vinitex 2011 (tienda).
 2. Devoto 2012 (supermercado).
-3. Accesa 2012-2014 (call center – Antel-data).
-4. Polisemic 2016-2016 (desarrollo web)
+3. Accesa 2012-2015 (Antel-data).
+4. Polisemic 2016-2017 (desarrollo web)
 
 ## Ejemplo de mi trabajo
 [https://maumartti.github.io/sierras-landing-page/](https://maumartti.github.io/sierras-landing-page/)
