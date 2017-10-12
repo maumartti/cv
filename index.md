@@ -32,6 +32,7 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 - PHP
 - Mysql
 - Java
+- Node.js
 - Git – Github
 - Conocimientos en SEO
 - POO
