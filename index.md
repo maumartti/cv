@@ -8,7 +8,7 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 ## Datos personales:
 #### Nombres : Mauricio Alejandro
 #### Apellidos: Martínez Deleon
-#### Edad: 28 años
+#### Edad: 29 años
 #### Lugar de residencia: Las Piedras, canelones
 #### Cel: 091403253
 #### Email: maumartti@gmail.com
@@ -36,5 +36,5 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 - Manejo de Linux
 ```
 ## Experiencias laborales:
-https://www.workana.com/freelancer/maumartti
+[https://www.workana.com/freelancer/maumartti](https://www.workana.com/freelancer/maumartti)
 
