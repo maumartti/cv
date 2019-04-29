@@ -8,7 +8,7 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 ## Datos personales:
 #### Nombres : Mauricio Alejandro
 #### Apellidos: Martínez Deleon
-#### Edad: 29 años
+#### Edad: 30 años
 #### Lugar de residencia: Las Piedras, canelones
 #### Cel: 091403253
 #### Email: maumartti@gmail.com
