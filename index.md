@@ -1,6 +1,6 @@
 # Mauricio Martínez
 
-![](IMG_20170802_134655.jpg)
+![](WhatsApp Image 2019-04-24 at 6.58.47 PM(1).jpeg)
 
 Desarrollador web y estudiante de tecnologías de la información, Front-end, y Back-end en diferentes lenguajes. 
 Entusiasta, autodidacta, practico, analítico, conceptual.
