@@ -26,7 +26,7 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 	- Vue2
 - PHP 
 	- Laravel 5.5
-- Ionic 4	
+- Ionic 4 + vue	
 - Mysql
 - Git – Github
 - Conocimientos en SEO
