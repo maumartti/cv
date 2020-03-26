@@ -10,7 +10,7 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 #### Apellidos: Martínez Deleon
 #### Edad: 30 años
 #### Lugar de residencia: Las Piedras, canelones
-#### Cel: 091403253
+#### Cel: 
 #### Email: maumartti@gmail.com
 #### GitHub: [https://github.com/maumartti](https://github.com/maumartti)
 #### Estado civil: Soltero
@@ -33,7 +33,5 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 - POO
 - MVC
 - Manejo de Linux
-```
-## Experiencias laborales:
-[https://www.workana.com/freelancer/maumartti](https://www.workana.com/freelancer/maumartti)
+
 
