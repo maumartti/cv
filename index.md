@@ -2,8 +2,7 @@
 
 ![](yoo.jpeg)
 
-Desarrollador web y estudiante de tecnologías de la información, Front-end, y Back-end en diferentes lenguajes. 
-Entusiasta, autodidacta, practico, analítico, conceptual.
+Desarrollador web full stack con 3 años de experiencia en php-Laravel + 2 años de experiencia en Vue + 1 año de experiencia en Ionic 4
 
 ## Datos personales:
 #### Nombres : Mauricio Alejandro
@@ -17,7 +16,7 @@ Entusiasta, autodidacta, practico, analítico, conceptual.
 
 
 ## Conocimientos:
-```markdown
+
 - HTML5
 - Css3
 - Bootstrap
