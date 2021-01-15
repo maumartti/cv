@@ -12,6 +12,7 @@ Desarrollador web full stack con 3 años de experiencia en php-Laravel + 2 años
 #### Nivel de inglés: pre-intermediate 
 #### Email: maumartti@gmail.com
 #### GitHub: [https://github.com/maumartti](https://github.com/maumartti)
+#### CV Online :[https://maumartti.github.io/cv/](https://maumartti.github.io/cv/)
 #### Estado civil: Soltero
 
 
