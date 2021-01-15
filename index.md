@@ -9,7 +9,7 @@ Desarrollador web full stack con 3 años de experiencia en php-Laravel + 2 años
 #### Apellidos: Martínez Deleon
 #### Edad: 30 años
 #### Lugar de residencia: Las Piedras, canelones
-#### Cel: 
+#### Nivel de inglés: pre-intermediate 
 #### Email: maumartti@gmail.com
 #### GitHub: [https://github.com/maumartti](https://github.com/maumartti)
 #### Estado civil: Soltero
